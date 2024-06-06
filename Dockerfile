@@ -10,8 +10,10 @@ COPY . .
 # Install the necessary dependencies
 RUN pip install Flask
 
+ARG PORT=5000
+
 # Expose the port on which the Flask application runs
-EXPOSE 5000
+EXPOSE ${PORT}
 
 # Define the command to run the application
 CMD ["python", "app.py"]
