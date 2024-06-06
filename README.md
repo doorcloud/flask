@@ -1,4 +1,4 @@
-# Launching a Flask (PHP) Application with Docker
+# Launching a Flask (Python) Application with Docker
 
 This guide explains how to set up and launch a Flask (Python) application using Docker.
 
