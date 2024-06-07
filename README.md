@@ -1,13 +1,12 @@
-# Launching a Flask (Python) Application with Docker
+# Launching a [Flask](https://flask.palletsprojects.com/) (Python) Application with Docker
 
-This guide explains how to set up and launch a Flask (Python) application using Docker.
+This guide explains how to set up and launch a [Flask](https://flask.palletsprojects.com/) (Python) application using Docker.
 
 ## Prerequisites
 
 Before starting, ensure you have the following tools installed on your machine:
 
 - [Docker](https://www.docker.com/products/docker-desktop)
-- [Flask](https://flask.palletsprojects.com/)
 
 ## Dockerfile Content
 
